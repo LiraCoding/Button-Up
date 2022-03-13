@@ -1,0 +1,31 @@
+.btn1 {
+  color: #109b9d;
+  background-color: whitesmoke;
+  border-radius: 20px;
+  border: #109b9d solid 2px;
+  padding: 5px 40px;
+  font-weight: bold;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.btn2 {
+  display: block;
+  color: whitesmoke;
+  background-color: turquoise;
+  border-radius: 15px;
+  padding: 5px 9px;
+  border: turquoise solid 2px;
+  font-size: 15px;
+  font-weight: bold;
+  margin: 10px 20px;
+}
+
+.btn3 {
+  display: block;
+  color: whitesmoke;
+  background-color: royalblue;
+  box-shadow: 5px 5px black;
+  padding: 5px 20px;
+  margin-left: 20px;
+}
